@@ -37,5 +37,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="Github Snake" src="https://githubusercontent.com">
+  <img alt="Snake animation" src="https://githubusercontent.com">
 </picture>
+
