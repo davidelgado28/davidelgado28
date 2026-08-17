@@ -19,7 +19,7 @@
 
 - Como me encontrar: **davidelgado.tech@gmail.com**
 
-- Nas horas vagas, monte e coleção de cubos mágicos: **Sei montar 2X2, 3X3, 4X4, 5X5, Megaminx e Pyraminx. Meu melhor tempo foi no 3X3 em 2023, com impressionantes 32 segundos!!!**
+- Nas horas vagas, monto e coleciono cubos mágicos: **Sei montar 2X2, 3X3, 4X4, 5X5, Megaminx e Pyraminx. Meu melhor tempo foi no 3X3 em 2023, com impressionantes 32 segundos!!!**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
