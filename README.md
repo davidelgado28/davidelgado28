@@ -32,11 +32,8 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidelgado28&" alt="davidelgado28" /></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denilsobn/denilsobn/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denilsobn/denilsobn/output/github-snake.svg">
   <img alt="Snake animation" src="[https://githubusercontent.com](https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-snake.svg)">
 </picture>
-
