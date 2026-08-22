@@ -33,7 +33,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denilsobn/denilsobn/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denilsobn/denilsobn/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-snake.svg">
   <img alt="Snake animation" src="[https://githubusercontent.com](https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-snake.svg)">
 </picture>
