@@ -32,11 +32,12 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="Snake animation" src="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-snake.svg">
-  <img alt="Snake animation" src="[https://githubusercontent.com](https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-snake.svg)">
+###
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidelgado28/davidelgado28/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
