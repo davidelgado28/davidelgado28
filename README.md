@@ -27,7 +27,7 @@
 
 ### Idiomas e Ferramentas:
 
-[![Skill Icons](https://skillicons.dev/icons?i=c,cpp,css,html,java,php,js,mysql,python,rust)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=c,cpp,css,html,java,php,js,mysql,python)](https://skillicons.dev)
 <p>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
