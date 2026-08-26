@@ -9,7 +9,7 @@
 
 - Estou desenvolvendo um robô 100% autônomo guiado por IA.
 
-- Estou desenvolvendo um site de estudos que tem documentação de tudo de informática: [SUAE - Sistema Unificado de Auxílio aos Estudantes](https://cauelaptop.github.io/estrutura_de_dados_de_informatica/)
+- Estou desenvolvendo um site de estudos que tem documentação de tudo de informática: [Suporte de Informática](https://suporte-informatica.vercel.app/)
 
 - A maioria dos meus projetos estão no: [github.com/davidelgado28](github.com/davidelgado28)
 
