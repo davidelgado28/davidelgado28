@@ -31,6 +31,12 @@
 <p>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
+<td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+                </a>
+                <br>Python
+            </td>
 
 ###
 
