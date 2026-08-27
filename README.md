@@ -32,18 +32,6 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
 
-### Estatísticas:
-
-<p align="center">
-  <a href="https://github.com/davidelgado28">
-    <img height="180em" src="https://vercel.app" />
-  </a>
-
-  <a href="https://github.com/davidelgado28">
-    <img height="180em" src="https://vercel.app" />
-  </a>
-</p>
-
 ###
 
 <picture align="center">
