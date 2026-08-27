@@ -78,6 +78,18 @@
                 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="48" height="48" alt="Java" />
                 <br>Java
             </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+                <br>HTML5
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+                <br>CSS3
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+                <br>PHP
+            </td>
         </tr>
 
 ###
