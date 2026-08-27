@@ -27,16 +27,58 @@
 
 ### Idiomas e Ferramentas:
 
-[![Skill Icons](https://skillicons.dev/icons?i=c,cpp,css,html,java,php,js,mysql,python)](https://skillicons.dev)
-<p>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-</p>
-<td align="center" width="96">
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+  <td align="center" width="96">
                 <a href="#macropower-tech">
                     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
                 </a>
                 <br>Python
             </td>
+        <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+             <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+                <br>C++
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+                <br>MySQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Github" />
+                <br>Github
+            </td>
+            <td align="center" width="96">
+                <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+                <br>Git
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+                <br>OpenCV
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
+                <br>Matplotlib
+            </td>
+             <td align="center" width="96">
+                <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" width="48" height="48" alt="C" />
+                <br>C
+            </td>
+            </tr>
+        <tr>
+          <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+                <br>VsCode
+            </td>
+            <td align="center" width="96">
+                <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+                <br>Java
+            </td>
+        </tr>
 
 ###
 
