@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm David/h1>
+<h1 align="center">Hi, I'm David</h1>
 <h3 align="center">I'm a developer passionate about creating solutions and learning new technologies. I love Python. I love Frontend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidelgado28&label=Profile%20views&color=0e75b6&style=flat" alt="davidelgado28" /> </p>
