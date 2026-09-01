@@ -1,31 +1,31 @@
-<h1 align="center">Olá, sou o David</h1>
-<h3 align="center">Sou um desenvolvedor apaixonado por criar soluções e aprender novas tecnologias. Amo Python. Amo Frontend.</h3>
+<h1 align="center">Hi, I'm David/h1>
+<h3 align="center">I'm a developer passionate about creating solutions and learning new technologies. I love Python. I love Frontend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidelgado28&label=Profile%20views&color=0e75b6&style=flat" alt="davidelgado28" /> </p>
 
-- Estudo e desenvolvo minha lógica de programação com: Neps Academy
+- I study and develop my programming logic with: **Neps Academy**
 
-- No momento, estou estudando: **Inteligência Artificial**
+- Currently, I'm studying: **Artificial Intelligence**
 
-- Estou desenvolvendo um robô 100% autônomo guiado por IA.
+- I'm developing a 100% autonomous AI-guided robot.
 
-- Estou desenvolvendo um site de estudos que tem documentação de tudo de informática: [Suporte de Informática](https://suporte-informatica.vercel.app/)
+- I'm developing a study website containing documentation for all things computer-related: [IT Support](https://suporte-informatica.vercel.app/)
 
-- A maioria dos meus projetos estão no: [github.com/davidelgado28](github.com/davidelgado28)
+- Most of my projects are on: [github.com/davidelgado28](github.com/davidelgado28)
 
-- Na maioria dos dias, estarei jogando xadrez e variantes: [https://lichess.org/@/David_Carlos](https://lichess.org/@/David_Carlos)
+- On most days, you'll find me playing chess and its variants: [https://lichess.org/@/David_Carlos](https://lichess.org/@/David_Carlos)
 
-- Converse comigo sobre: ​​**Olimpíadas e Maratonas de programação, Desenvolvimento WEB e lógica de programação**
+- Talk to me about: **Programming Olympiads and Marathons, WEB Development, and programming logic**
 
-- Como me encontrar: **davidelgado.tech@gmail.com**
+- How to reach me: **davidelgado.tech@gmail.com**
 
-- Nas horas vagas, monto e coleciono cubos mágicos: **Sei montar 2X2, 3X3, 4X4, 5X5, Megaminx e Pyraminx. Meu melhor tempo foi no 3X3 em 2023, com impressionantes 32 segundos!!!**
+- In my free time, I solve and collect Rubik's cubes: **I can solve the 2X2, 3X3, 4X4, 5X5, Megaminx, and Pyraminx. My best time on the 3X3 was in 2023, with an impressive 32 seconds!!!**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-carlos-miranda-delgado-3359243b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-carlos-miranda-delgado-3359243b1" height="30" width="40" /></a>
 
-### Idiomas e Ferramentas:
+### Languages and Tools:
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
