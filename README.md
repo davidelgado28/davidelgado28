@@ -7,7 +7,7 @@
 
 - Currently, I'm studying: **Artificial Intelligence**
 
-- I'm developing an artificial intelligence that will control a 100% autonomous robot that will clean industrial evaporators and pre-evaporators worldwide.
+- I'm developing an **artificial intelligence** that will control a **100%** autonomous robot that will clean industrial evaporators and pre-evaporators **worldwide**.
 
 - I'm developing a study website containing documentation for all things computer-related: [IT Support](https://suporte-informatica.vercel.app/)
 
