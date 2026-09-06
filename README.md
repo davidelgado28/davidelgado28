@@ -5,7 +5,7 @@
 
 - I study and develop my programming logic with: **Neps Academy**
 
-- Currently, I'm studying: **Artificial Intelligence**
+- Currently, I'm studying: **Cloud Computing**
 
 - I'm developing an **artificial intelligence** that will control a **100%** autonomous robot that will clean industrial evaporators and pre-evaporators **worldwide**.
 
