@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm David</h1>
 <h3 align="center">I'm a developer passionate about creating solutions and learning new technologies. I love Python. I love Frontend.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidelgado28&label=Profile%20views&color=0e75b6&style=flat" alt="davidelgado28" /> </p>
+---
 
 - I study and develop my programming logic with: **Neps Academy**
 
@@ -18,6 +18,8 @@
 - Talk to me about: **Programming Olympiads and Marathons, WEB Development, and programming logic**
 
 - How to reach me: **davidelgado.tech@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
