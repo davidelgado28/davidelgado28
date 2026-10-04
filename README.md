@@ -3,7 +3,7 @@
 
 ---
 
-- I study and develop my programming logic with: **Neps Academy**
+- Ranked **#2** overall on Neps Academy (competitive programming platform) with over 1,240 algorithm problems solved.
 
 - Currently, I'm studying: **Cloud Computing**
 
