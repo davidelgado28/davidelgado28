@@ -75,7 +75,7 @@
                 <br>VsCode
             </td>
             <td align="center" width="96">
-                <img src="[https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg](https://techstack-generator.vercel.app/java-icon.svg)" width="48" height="48" alt="Java" />
+                <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
                 <br>Java
             </td>
             <td align="center" width="96">
@@ -91,7 +91,7 @@
                 <br>PHP
             </td>
             <td align="center" width="96">
-                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" width="48" height="48" alt="HuggingFace" />
+                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" />
                 <br>Hugging Face
             </td>
         </tr>
