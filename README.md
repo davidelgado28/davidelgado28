@@ -91,7 +91,7 @@
                 <br>PHP
             </td>
             <td align="center" width="96">
-                <img src="[https://skillicons.dev/icons?i=php](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" width="48" height="48" alt="PHP" />
+                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" width="48" height="48" alt="HuggingFace" />
                 <br>Hugging Face
             </td>
         </tr>
