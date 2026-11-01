@@ -3,11 +3,11 @@
 
 ---
 
-- Ranked **#2** overall on Neps Academy (competitive programming platform) with over 1,240 algorithm problems solved.
+- Ranked **#3** overall on Neps Academy (competitive programming platform) with over 1,250 algorithm problems solved.
 
 - Currently, I'm studying: **Cloud Computing**
 
-- I'm developing an **artificial intelligence** that will control a **100%** autonomous robot that will clean industrial evaporators and pre-evaporators **worldwide**.
+- I'm developing an artificial intelligence for the **Viper 2.0** project, by **IVIC LTDA**.
 
 - I'm developing a study website containing documentation for all things computer-related: [IT Support](https://suporte-informatica.vercel.app/)
 
