@@ -32,24 +32,24 @@
         <tr>
   <td align="center" width="96">
                 <a href="#macropower-tech">
-                    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+                    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
                 </a>
                 <br>Python
             </td>
         <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+                <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
                 <br>JavaScript
             </td>
              <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+                <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
                 <br>C++
             </td>
             <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+                <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
                 <br>MySQL
             </td>
             <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Github" />
+                <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
                 <br>Github
             </td>
             <td align="center" width="96">
@@ -75,7 +75,7 @@
                 <br>VsCode
             </td>
             <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+                <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
                 <br>Java
             </td>
             <td align="center" width="96">
