@@ -11,8 +11,6 @@
 
 - I'm developing a study website containing documentation for all things computer-related: [IT Support](https://suporte-informatica.vercel.app/)
 
-- Most of my projects are on: [https://github.com/davidelgado28](github.com/davidelgado28)
-
 - On most days, you'll find me playing chess and its variants: [https://lichess.org/@/David_Carlos](https://lichess.org/@/David_Carlos)
 
 - Talk to me about: **Programming Olympiads and Marathons, WEB Development, and programming logic**
