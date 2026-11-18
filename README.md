@@ -3,7 +3,7 @@
 
 ---
 
-- Ranked **#4** overall on Neps Academy (competitive programming platform) with over 1,250 algorithm problems solved.
+- Ranked **#6** overall on Neps Academy (competitive programming platform) with over 1,250 algorithm problems solved.
 
 - Currently, I'm studying: **Cloud Computing**
 
